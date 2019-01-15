@@ -10,5 +10,11 @@
                 ]
             }
         ]
+    },
+
+    "activitycontinuation": {
+        "apps": [    
+            "6X5VJGHTTH.SmashingTeam.AUTODOC",
+        ]
     }
 }
